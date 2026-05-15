@@ -129,4 +129,4 @@ mensagem = f"Opa {nome}! Aqui é da Panini e seu Album de capa dura {tipo} já c
 
 ## Licença
 
-Projeto desenvolvido para fins de estudo e automação pessoal.
+Projeto desenvolvido para facilitar um meio de comunicação de loja de figurinhas e albuns da copa do mundo 2026
